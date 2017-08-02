@@ -8,35 +8,8 @@ Se você alguma vez se deparou com estes problemas, o Magik Class é uma platafo
 
 Todos estes dados ficam armazenados no IPad, e com o Magik Pro nós mantemos uma cópia de tudo em nossa plataforma em nuvem, onde os coordenadores (e, futuramente, os pais) apoderão acompanhar o desenvolvimento dos alunos e rapidamente adotar medidas que permitam o melhor aproveitamento das aulas. Ao final do mês os registros do Magik Class podem ser impressos no mesmo formato do diario de classe convencional, pronto para a assinatura do professor.
 
+Este é um guia prático sobre algumas funções do MGK Class. 
+
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/GuilhermeCCCarvalho/MGKClassAPPinfo/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
