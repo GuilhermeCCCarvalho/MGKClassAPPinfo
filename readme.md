@@ -1,3 +1,5 @@
+//
+
 ## Magik Class
 
 O Diário de classe é um registro valioso para a escola pois comprova a presença dos alunos e o conteúdo ensinado pelo professor segundo o plano de trabalho docente. No entanto, muitas vezes preenche-lo acaba sendo uma tarefa complicada, ainda mais no precioso espaço de tempo de uma aula, por isso muitos acabam fazendo a chamada e tomando uma nota simples da materia estudada em um "registro paralelo", o que duplica a tarefa do professor na hora de formalizar os registros.
@@ -8,8 +10,15 @@ Se você alguma vez se deparou com estes problemas, o Magik Class é uma platafo
 
 Todos estes dados ficam armazenados no IPad, e com o Magik Pro nós mantemos uma cópia de tudo em nossa plataforma em nuvem, onde os coordenadores (e, futuramente, os pais) apoderão acompanhar o desenvolvimento dos alunos e rapidamente adotar medidas que permitam o melhor aproveitamento das aulas. Ao final do mês os registros do Magik Class podem ser impressos no mesmo formato do diario de classe convencional, pronto para a assinatura do professor.
 
-Este é um guia prático sobre algumas funções do MGK Class. 
+Este é um guia prático sobre as funções do MGK Class.
 
-
-### Markdown
-
+### Conteúdos deste manual:
+-Cadastro e login
+-Realizando chamadas
+-Adicionando programa de aula
+-Registrar tarefas e avaliações
+-Registrar ocorrências privadas e publicas
+-Aviso aos alunos.
+-Impressão de relatórios
+-Editando o programa do Curso.
+-Magik Online: Uma breve introdução
