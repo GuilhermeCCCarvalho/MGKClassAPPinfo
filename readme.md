@@ -1,4 +1,3 @@
-//
 
 ## Magik Class
 
@@ -12,7 +11,7 @@ Todos estes dados ficam armazenados no IPad, e com o Magik Pro nós mantemos uma
 
 Este é um guia prático sobre as funções do MGK Class.
 
-### Conteúdos deste manual:
+## Conteúdos deste manual:
 -Cadastro e login
 -Realizando chamadas
 -Adicionando programa de aula
